@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "357359896453",
+    "project_id": "note-keeper-e3ee2",
+    "storage_bucket": "note-keeper-e3ee2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357359896453:android:3c6f80e888fa7feb73a6ec",
+        "android_client_info": {
+          "package_name": "com.example.flutter_note_keeper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357359896453-hmf63hp7ja4vop377298m7u9l9tkv7vg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_note_keeper",
+            "certificate_hash": "0e9079f97f9ba1b462f30fd207d9b29d2e44e9e4"
+          }
+        },
+        {
+          "client_id": "357359896453-figqrrau90enae3v5qbqmd8br3darpcb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOP94x-JUvsrAShII7etydplEZuX6Cs6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357359896453-figqrrau90enae3v5qbqmd8br3darpcb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357359896453:android:4d2922025537468c73a6ec",
+        "android_client_info": {
+          "package_name": "com.example.note_keeper_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357359896453-figqrrau90enae3v5qbqmd8br3darpcb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOP94x-JUvsrAShII7etydplEZuX6Cs6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357359896453-figqrrau90enae3v5qbqmd8br3darpcb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
